@@ -7,3 +7,5 @@ Transport and communication are in the crucial domain in the field of analytics.
      <br> <br>
       Bird strikes may occur during any phase of flight, but are most likely during the take-off, initial climb, approach and landing phases due to the greater numbers of birds in flight at lower levels.
 
+<br><br>
+![Vector-Flying-Airplane-PNG-Clipart](https://github.com/vishalmdesai/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/153223711/3780e5b7-7a7a-4bce-9a76-9a737bdcc3e4)
