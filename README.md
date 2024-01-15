@@ -9,3 +9,6 @@ Transport and communication are in the crucial domain in the field of analytics.
 
 <br><br>
 ![Vector-Flying-Airplane-PNG-Clipart](https://github.com/vishalmdesai/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/153223711/3780e5b7-7a7a-4bce-9a76-9a737bdcc3e4)
+<br>
+![birdstrike_img](https://github.com/vishalmdesai/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/153223711/de8955fd-93b1-48c3-a773-439df59489b9)
+![gettyimages-160526602-612x612](https://github.com/vishalmdesai/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/153223711/8cf90d95-169a-471d-aa99-24fdc25476d6)
